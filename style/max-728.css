@@ -1,0 +1,33 @@
+.slide {
+	height: 270px;
+}
+.grid {
+	width: 100%;
+}
+.advantages .grid .item {
+	width: 95%;
+	height: auto;
+}
+.mission {
+	margin: auto;
+	padding: 0;
+}
+.mission .col {
+	width: 100%;
+	float: none;
+}
+#btcland-profit > .content > .col-md-3 {
+	width: 100%;
+	height: auto;
+	padding: 0;
+}
+.counter {
+	display: none;
+}
+.footer .col2, .footer .col3 {
+	width: 25%;
+}
+.advantages .grid .item .adv-ico {
+	border: 1px solid rgba(0,0,0,0);
+	margin-top: 15px;
+}

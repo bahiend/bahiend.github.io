@@ -1,0 +1,69 @@
+.slide {
+	height: 380px;
+}
+.menu .content > .main-menu {
+	float: left;
+	margin-left: 10%;
+}
+.mission .col {
+	width: 49%;
+	float: left;
+}
+fieldset {
+	padding: 0;
+	padding-top: 20px;
+}
+.strategy__content {
+	text-align: justify;
+}
+.advantages .grid .item {
+	width: 47.5%;
+	float: left;
+	height: 150px;
+	margin-bottom: 20px; 
+}
+.advantages .grid .item .adv-ico {
+	height: 37%;
+}
+.advantages .grid {
+	padding-bottom: 0; 
+}
+#btcland-profit > .content > .col-md-3 {
+	width: 50%;
+	height: 220px;
+	padding: 15px;
+	margin: 0;
+	display: block;
+}
+.main-menu > ul > li.icon {
+	display: inline;
+}
+.main-menu > ul > li	 {
+	display: none;
+}
+ul.topnav li.icon {
+	position: absolute;
+    top: 0;
+    right: 0;
+    display: inline-block;
+  }
+ul.topnav.responsive {
+	padding-bottom: 20px;
+}
+ul.topnav.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+ul.topnav.responsive li {
+    float: left;
+    display: block;
+  }
+ul.topnav.responsive li a {
+    display: block;
+    text-align: left;
+    width: 200px;
+  }
+  .main-menu > ul > li.icon > a{
+	width: auto;
+}

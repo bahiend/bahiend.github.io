@@ -1,0 +1,9 @@
+.slide {
+	height: 175px;
+}
+.slide > .content {
+	bottom: 10px;
+}
+.footer .col2, .footer .col3 {
+	width: 50%;
+}
